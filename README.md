@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development
 - 👀 I’m good in Back-end with Node.js
 - 🌱 I’m currently learning Animation 3D , MERN Stack or Android Development
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking to collaborate for develope something of your intrest
 - 📫 How to reach me 
 - 😄 Pronouns: Vishu
 - ⚡ Fun fact: ...
