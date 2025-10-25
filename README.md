@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vishalsinghlodhi437@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Jk237RFtmh6XD32r07WSz0W77YZSwya6/view](https://drive.google.com/file/d/1Jk237RFtmh6XD32r07WSz0W77YZSwya6/view)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/15KeJ3cfp10i3fFlQpd0Tz6PKBesH-YJj/view)
 
 - ⚡ Fun fact **Don't You Think I'm Not Complecated**
 
