@@ -11,15 +11,15 @@
 
 - 👯 I’m looking to collaborate on **Your imagenation**
 
-- 🤝 I’m looking for help with **AI Projects**
+- 🤝 I’m looking for help with **Code Logic**
 
-- 👨‍💻 All of my projects are available at [https://vi5hal.vercel.app](https://vi5hal.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://vi5hal.vercel.app)
 
 - 💬 Ask me about **MERN , generative ai , Backend dev , react**
 
 - 📫 How to reach me **vishalsinghlodhi437@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/15KeJ3cfp10i3fFlQpd0Tz6PKBesH-YJj/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13fDxDoR9kZiA2nu4LPOPvu5RkEuK9zSM/view?usp=sharing)
 
 - ⚡ Fun fact **Don't You Think I'm Not Complecated**
 
