@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vi5halsingh" alt="vi5halsingh" /></a> </p>
 
-- 🔭 I’m currently working on [Hospital opd system](https://e-opd.onrender.com/)
+- 🔭 I’m currently working as SDE Intern at HLtech Pvt Ltd Bhopal
 
 - 🌱 I’m currently learning **AI , DevOps**
 
